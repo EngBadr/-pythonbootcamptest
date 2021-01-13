@@ -4,7 +4,8 @@
 #  Transfare some money you can use this account with out qouts '1600000363600770' 
 
 import time
-
+import os
+os.system('')
 RED = '\033[31m'
 GREEN = '\033[32m'
 YELLOW = '\033[33m'
