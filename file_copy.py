@@ -1,5 +1,4 @@
 import os
-from os.path import isfile
 import datetime
 wrk_dir=os.path.dirname(__file__)
 newContents=[]
